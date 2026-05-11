@@ -17,7 +17,7 @@ The network consists of:
 - One wireless laptop connected via Wi-Fi
 
 📌 Topology Diagram:
-(Insert topology screenshot here)
+<img width="273" height="187" alt="Topology" src="https://github.com/user-attachments/assets/bff66cd2-7bd1-4c4e-973c-f7c6ae0539b1" />
 
 ---
 
@@ -53,7 +53,7 @@ The wireless network name (SSID) was configured as:
 This allows wireless clients to identify and connect to the correct access point.
 
 📌 Screenshot:
-(Insert SSID configuration screenshot here)
+<img width="444" height="262" alt="Picture1" src="https://github.com/user-attachments/assets/0a0618e3-578c-4561-8514-21a09a5445d2" />
 
 ---
 
@@ -66,7 +66,7 @@ Wireless security was configured using WPA2-Personal with AES encryption to ensu
 - Passphrase: `Cisco456!`
 
 📌 Screenshot:
-(Insert WPA2 configuration screenshot here)
+<img width="439" height="272" alt="Picture2" src="https://github.com/user-attachments/assets/fb54b7fe-e6db-40f5-bbf5-1ebc0cf47de9" />
 
 ---
 
@@ -80,7 +80,7 @@ The router was configured to act as a DHCP server, dynamically assigning IP addr
 After applying configuration changes, clients renewed their IP addresses successfully using `ipconfig /renew`.
 
 📌 Screenshot:
-(Insert DHCP configuration screenshot here)
+<img width="446" height="301" alt="Picture3" src="https://github.com/user-attachments/assets/4921de81-aafe-4bba-895b-1b7be62bbe44" />
 
 ---
 
@@ -89,7 +89,7 @@ After applying configuration changes, clients renewed their IP addresses success
 The wireless laptop successfully detected the configured SSID (`NET352`), authenticated using the WPA2 passphrase, and obtained an IP address via DHCP.
 
 📌 Screenshot:
-(Insert wireless network scan screenshot here)
+<img width="446" height="356" alt="Picture4" src="https://github.com/user-attachments/assets/c2c01802-9292-4e29-8e82-a851ab524c7f" />
 
 ---
 
@@ -104,7 +104,7 @@ After successful connection, the wireless client received the following network 
 This confirms successful DHCP allocation and routing connectivity.
 
 📌 Screenshot:
-(Insert ipconfig output screenshot here)
+<img width="353" height="348" alt="Picture5" src="https://github.com/user-attachments/assets/a34908b6-32a3-470e-9fd0-126e8cfd130c" />
 
 ---
 
