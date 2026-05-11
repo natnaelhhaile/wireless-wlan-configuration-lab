@@ -1,0 +1,9 @@
+SSID: NET352
+
+Security Mode:
+- WPA2-Personal
+- Encryption: AES
+- Passphrase: Cisco456!
+
+Radio Band: 2.4 GHz
+Broadcast SSID: Enabled

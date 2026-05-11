@@ -1,0 +1,9 @@
+DHCP Status: Enabled
+
+Default Gateway: 192.168.50.1
+
+IP Allocation Range:
+- Start IP: 192.168.50.100
+- Max Users: 50
+
+Subnet Mask: 255.255.255.0
